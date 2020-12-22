@@ -1,9 +1,17 @@
 # Attempting **ALL** SCIP exercises :)
 
+## Progress
+
+### 2 exercises of 356 completed
+
+![0%](https://progress-bar.dev/0)
+
+## Notes
+
 | Problem        | Date Completed           | Link |
 | ------------- | ------------- | ----- |
-| 1.1 | | |
-| 1.2 | | |
+| 1.1 | 22 Dec 2020 | https://github.com/JasonOna/SICP/blob/main/1.1-2.scm |
+| 1.2 | 22 Dec 2020 | https://github.com/JasonOna/SICP/blob/main/1.1-2.scm |
 | 1.3 | | |
 | 1.4 | | |
 | 1.5 | | |
