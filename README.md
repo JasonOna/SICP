@@ -15,8 +15,8 @@
 | 1.3 | 23 Dec 2020 | https://github.com/JasonOna/SICP/blob/main/1.3.scm |
 | 1.4 | 23 Dec 2020 | https://github.com/JasonOna/SICP/blob/main/1.4.scm |
 | 1.5 | 23 Dec 2020 | https://github.com/JasonOna/SICP/blob/main/1.5.scm |
-| 1.6 | | |
-| 1.7 | | |
+| 1.6 | 24 Dec 2020 | https://github.com/JasonOna/SICP/blob/main/1.6.scm |
+| 1.7 | 24 Dec 2020 | https://github.com/JasonOna/SICP/blob/main/1.7.scm |
 | 1.8 | | |
 | 1.9 | | |
 | 1.10 | | |
