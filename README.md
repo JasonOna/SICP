@@ -2,9 +2,9 @@
 
 ## Progress
 
-### 5 exercises of 356 completed
+### 10 exercises of 356 completed
 
-![1%](https://progress-bar.dev/1)
+![3%](https://progress-bar.dev/3)
 
 ## Notes
 
@@ -17,9 +17,9 @@
 | 1.5 | 23 Dec 2020 | https://github.com/JasonOna/SICP/blob/main/1.5.scm |
 | 1.6 | 24 Dec 2020 | https://github.com/JasonOna/SICP/blob/main/1.6.scm |
 | 1.7 | 24 Dec 2020 | https://github.com/JasonOna/SICP/blob/main/1.7.scm |
-| 1.8 | | |
-| 1.9 | | |
-| 1.10 | | |
+| 1.8 | 29 Dec 2020 | https://github.com/JasonOna/SICP/blob/main/1.8.scm |
+| 1.9 | 29 Dec 2020 | https://github.com/JasonOna/SICP/blob/main/1.9.scm |
+| 1.10 | 29 Dec 2020 | https://github.com/JasonOna/SICP/blob/main/1.10.scm |
 | 1.11 | | |
 | 1.12 | | |
 | 1.13 | | |
